@@ -3,5 +3,5 @@ This project is an interactive password generator built with HTML, CSS, and Java
 
 
 
-<img width="1426" alt="1" src="https://github.com/user-attachments/assets/563c27a2-ba00-472f-bf23-76f15df2d046">
-<img width="1426" alt="2" src="https://github.com/user-attachments/assets/ce63a7fc-e84e-47c7-8439-ad05e9a25633">
+<img width="500"  src="https://github.com/user-attachments/assets/563c27a2-ba00-472f-bf23-76f15df2d046">
+<img width="500"  src="https://github.com/user-attachments/assets/ce63a7fc-e84e-47c7-8439-ad05e9a25633">
