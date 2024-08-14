@@ -55,7 +55,7 @@ function generateHash() {
    
 
    const hash = CryptoJS.MD5(mixed).toString(CryptoJS.enc.Hex);
-   console.log("MD5 Hash: ", hash);
+
 
    let splittext = hash.split("");
 
